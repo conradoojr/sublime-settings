@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Function Name Display",
+		"Jade",
+		"Jade Snippets",
+		"jQuery",
+		"LineEndings",
+		"Material Theme",
+		"Package Control",
+		"phJade",
+		"PlainTasks",
+		"Sass",
+		"SideBarEnhancements",
+		"TrailingSpaces",
+		"Xdebug Client"
+	]
+}
