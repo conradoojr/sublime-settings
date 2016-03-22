@@ -11,6 +11,7 @@
 		"AutoFileName",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"Comment-Snippets",
 		"DocBlockr",
 		"Emmet",
@@ -25,6 +26,7 @@
 		"PlainTasks",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"TrailingSpaces",
 		"Xdebug Client"
 	]
