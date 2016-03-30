@@ -9,13 +9,13 @@
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
-		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Comment-Snippets",
 		"DocBlockr",
 		"Emmet",
 		"Function Name Display",
+		"GitGutter",
 		"Jade",
 		"Jade Snippets",
 		"jQuery",
@@ -27,7 +27,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"TrailingSpaces",
-		"Xdebug Client"
+		"SyncedSideBar",
+		"TrailingSpaces"
 	]
 }
