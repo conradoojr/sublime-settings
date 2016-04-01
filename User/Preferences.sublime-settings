@@ -1,12 +1,13 @@
 {
-    "always_show_minimap_viewport": true,
-    "auto_complete_commit_on_tab ": true,
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab ": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"detect_indentation": false,
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - Portuguese/Portuguese (Brazilian).dic",
 	"draw_indent_guides": true,
+	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 10,
 	"highlight_line": true,
@@ -34,6 +35,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
-	"wrap_width": "auto",
-     "draw_white_space": "all"
+	"wrap_width": "auto"
 }
