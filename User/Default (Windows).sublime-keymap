@@ -1,5 +1,10 @@
 [
     { "keys": ["ctrl+shift+d"], "command": "find_under_expand" },
     { "keys": ["ctrl+d"], "command": "duplicate_line" },
-    { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"}
+    { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+    { "keys": ["f6"], "command": "expand_fqcn" },
+    { "keys": ["shift+f6"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    { "keys": ["f5"], "command": "find_use" },
+    { "keys": ["f4"], "command": "import_namespace" },
+    { "keys": ["shift+f12"], "command": "goto_definition_scope" }
 ]
