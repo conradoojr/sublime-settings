@@ -1,4 +1,0 @@
-{
-    "path": "C:/Users/cjunior/AppData/Roaming/Composer/vendor/bin",
-    "shell_cmd": "php-cs-fixer fix '$file' --level=psr2"
-}
