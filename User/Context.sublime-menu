@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Menus Personalizados",
+        "mnemonic": "n",
+        "id": "conradoojr.menu",
+        "caption": "Close Functions",
+        "command": "fold_by_level",
+        "args": {"level": 2}
+    }
+]
