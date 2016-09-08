@@ -4,7 +4,12 @@
         "mnemonic": "n",
         "id": "conradoojr.menu",
         "caption": "Close Functions",
-        "command": "fold_by_level",
-        "args": {"level": 2}
+       "command": "run_multiple",
+        "args": {
+          "commands": [
+            {"command": "move_to", "args": {"to": "bof", "extend": false}, "context": "window"},
+            {"command": "fold_by_level", "args": {"level": 2}, "context": "window"}
+          ]
+        }
     }
 ]
