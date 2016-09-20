@@ -1,15 +1,29 @@
 [
     {
-        "caption": "Menus Personalizados",
+        "caption": "Meu Menu",
         "mnemonic": "n",
         "id": "conradoojr.menu",
-        "caption": "Close Functions",
-       "command": "run_multiple",
+        "caption": "Close All Functions",
+        "command": "run_multiple",
         "args": {
-          "commands": [
-            {"command": "move_to", "args": {"to": "bof", "extend": false}, "context": "window"},
-            {"command": "fold_by_level", "args": {"level": 2}, "context": "window"}
-          ]
+            "commands": [
+                {"command": "move_to", "args": {"to": "bof", "extend": false}, "context": "window"},
+                {"command": "fold_by_level", "args": {"level": 2}, "context": "window"}
+            ]
+        }
+    },
+
+    {
+        "caption": "Meu Menu 2",
+        "mnemonic": "n",
+        "id": "conradoojr.menu2",
+        "caption": "Toggle Sidebar",
+        "command": "run_multiple",
+        "args": {
+            "commands": [
+                {"command": "toggle_side_bar", "args": {}, "context": "window"}
+            ]
         }
     }
+
 ]
