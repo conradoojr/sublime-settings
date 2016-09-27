@@ -27,7 +27,7 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"overlay_scroll_bars": "enabled",
-	"reveal-on-activate": false,
+	"reveal-on-activate": true,
 	"rulers": "auto",
 	"show_encoding": true,
 	"show_panel_on_build": true,
