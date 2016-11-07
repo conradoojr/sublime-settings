@@ -9,8 +9,16 @@
 	"draw_indent_guides": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
 	"font_size": 10,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
