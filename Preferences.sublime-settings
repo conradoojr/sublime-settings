@@ -10,7 +10,7 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_face": "Consolas",
+	"font_face": "Fira Code",
 	"font_options":
 	[
 		"gray_antialias",
@@ -21,6 +21,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"LineEndings",
 		"Vintage"
 	],
 	"indent_guide_options":
